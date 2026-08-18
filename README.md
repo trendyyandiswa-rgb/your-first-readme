@@ -2,6 +2,8 @@
 
 A modern web app built with Lovable, running on TanStack Start, React and Tailwind CSS.
 
+**Repository:** https://github.com/yandiswa-trendy/yandiswa-trendy
+
 ## Overview
 
 This repository contains the full source of the app: routes, UI components, styling
